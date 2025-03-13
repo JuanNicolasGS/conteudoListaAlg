@@ -1,0 +1,1 @@
+# Crie um programa que solicite 10 números ao usuário, armazene-os em uma lista e depois exiba quantos desses números são pares.

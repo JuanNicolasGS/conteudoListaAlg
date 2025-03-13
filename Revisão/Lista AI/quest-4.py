@@ -1,0 +1,1 @@
+# Solicite ao usuário que informe quantos números quiser (encerre com um número negativo), armazene-os em uma lista e calcule a média dos valores inseridos (desconsiderando o número negativo que encerra a entrada).

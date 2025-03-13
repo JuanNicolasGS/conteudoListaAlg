@@ -1,0 +1,1 @@
+# Crie um programa que peça ao usuário para inserir 10 números e armazene-os em uma lista. Depois, remova os números duplicados e exiba a lista sem repetições.
